@@ -2,7 +2,7 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Itsunknown-12/TGN-Robot)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Itsunknown-12/avichidarbot)
 
 <p align = "center"><a herf = "https://t.me/Zaid2_Ro_bot" alt = "Zaid"><img src = "https://telegra.ph/file/54f8bedfdaca2954d2ed4.png" width = "900"></a></p>
 
@@ -19,10 +19,10 @@
 </a>
 
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Itsunknown-12&repo=TGN-Robot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=avichidar-12&repo=avichidar&theme=dark)
 
 ## 🅓🅔🅟🅛🅞🅨
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/TGN-Robot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsunknown-12/avichidarbot)
 
 
 ## 🆅🅴🆁🅸🅰🅱🅻🅴🆂
